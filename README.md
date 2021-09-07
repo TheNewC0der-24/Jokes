@@ -1,15 +1,21 @@
-# Jokes
+<h1 align="center">Jokes 👻</h1>
 
-# ABOUT
-I have created this website using HTML, CSS and JavaScript. I have using Jokes API and make this Website to make your day Happy.
+## ABOUT
+<p>I have created this website using <a href="https://icanhazdadjoke.com/api" target="_blank">Jokes API</a> and make this Website to make your day Happy.</p>
 
-# FUNCTIONS
-On clicking the "Next JOKE" everytime you will see a new Joke.
+## Built With
+* HTML
+* CSS
+* JavaScript
 
-# PREVIEW
+## FUNCTIONS
+You will see one button i.e., **"Next JOKE"** everytime you click that button you will see a New Joke.
+
+## PREVIEW
 ![image](https://github.com/TheNewC0der-24/Jokes/blob/master/Preview.png)
 
-# LINK FOR THE WEBSITE 
+## LINK FOR THE WEBSITE 
 https://thenewc0der-24.github.io/Jokes/
 
-Hope you like this, Keep Smiling 😊
+---
+<h3 align="center">Hope you like this, Keep Smiling 😊</h3>
