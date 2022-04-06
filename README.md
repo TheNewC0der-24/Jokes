@@ -14,8 +14,10 @@ You will see one button i.e., **"Next JOKE"** everytime you click that button yo
 ## PREVIEW
 ![image](https://github.com/TheNewC0der-24/Jokes/blob/master/Preview.png)
 
-## LINK FOR THE WEBSITE 
+## LINK
+```
 https://thenewc0der-24.github.io/Jokes/
+```
 
 ---
 <h3 align="center">Hope you like this, Keep Smiling 😊</h3>
